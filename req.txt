@@ -3,3 +3,4 @@ numpy
 tables
 pandas
 h5py
+matplotlib
