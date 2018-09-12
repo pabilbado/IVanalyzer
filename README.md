@@ -4,8 +4,11 @@ The main function of this project is to create a program that can be employed to
 
 # Installation
 You need to install HDF5 : https://www.hdfgroup.org/
+
 TeX Live : https://tug.org/texlive/
+
 pdfTeX : https://www.tug.org/applications/pdftex/
+
 And the rest can be installed employing pip. For that run $pip install req.txt
 If any more dependencies are missing install them manually.
 
