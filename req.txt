@@ -1,0 +1,5 @@
+pyvisa
+numpy
+tables
+pandas
+h5py
