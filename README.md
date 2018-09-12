@@ -19,3 +19,6 @@ If any more dependencies are missing install them manually.
 You can run two different modes, "main.py" which will perform the measurements and create a pdf employing LaTex as a logbook.
 
 And "analyse.py" that will analyse the results within the results folder. It will classify the files in different diameters by default, but the tag that classifies the data based upon can be changed.
+
+### Contributors
+George Ridgard & Pablo J Bilbao
